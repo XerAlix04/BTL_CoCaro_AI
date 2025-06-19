@@ -1,0 +1,75 @@
+D:\Bai_Tap\AI\BTL\bin\Debug\BTL.exe.config
+D:\Bai_Tap\AI\BTL\bin\Debug\BTL.exe
+D:\Bai_Tap\AI\BTL\bin\Debug\BTL.pdb
+D:\Bai_Tap\AI\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+D:\Bai_Tap\AI\BTL\obj\Debug\BTL.Form1.resources
+D:\Bai_Tap\AI\BTL\obj\Debug\BTL.Properties.Resources.resources
+D:\Bai_Tap\AI\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+D:\Bai_Tap\AI\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+D:\Bai_Tap\AI\BTL\obj\Debug\BTL.exe
+D:\Bai_Tap\AI\BTL\obj\Debug\BTL.pdb
+C:\Users\LAPTOP-PC\projects\AI\BTL\bin\Debug\BTL.exe.config
+C:\Users\LAPTOP-PC\projects\AI\BTL\bin\Debug\BTL.exe
+C:\Users\LAPTOP-PC\projects\AI\BTL\bin\Debug\BTL.pdb
+C:\Users\LAPTOP-PC\projects\AI\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+C:\Users\LAPTOP-PC\projects\AI\BTL\obj\Debug\BTL.Form1.resources
+C:\Users\LAPTOP-PC\projects\AI\BTL\obj\Debug\BTL.Properties.Resources.resources
+C:\Users\LAPTOP-PC\projects\AI\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+C:\Users\LAPTOP-PC\projects\AI\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP-PC\projects\AI\BTL\obj\Debug\BTL.exe
+C:\Users\LAPTOP-PC\projects\AI\BTL\obj\Debug\BTL.pdb
+C:\Users\LAPTOP-PC\projects\AI\BTL\obj\Debug\BTL.FormDangNhap.resources
+C:\Users\LAPTOP-PC\projects\AI\BTL\obj\Debug\BTL.FormDangKy.resources
+C:\Users\LAPTOP-PC\projects\AI\BTL\obj\Debug\BTL.FormKhoiPhucTK.resources
+C:\Users\LE TRUNG KIEN\Documents\Zalo Received Files\BTL 2\bin\Debug\BTL.exe.config
+C:\Users\LE TRUNG KIEN\Documents\Zalo Received Files\BTL 2\bin\Debug\BTL.exe
+C:\Users\LE TRUNG KIEN\Documents\Zalo Received Files\BTL 2\bin\Debug\BTL.pdb
+C:\Users\LE TRUNG KIEN\Documents\Zalo Received Files\BTL 2\obj\Debug\BTL.csproj.AssemblyReference.cache
+C:\Users\LE TRUNG KIEN\Documents\Zalo Received Files\BTL 2\obj\Debug\BTL.Form1.resources
+C:\Users\LE TRUNG KIEN\Documents\Zalo Received Files\BTL 2\obj\Debug\BTL.FormDangKy.resources
+C:\Users\LE TRUNG KIEN\Documents\Zalo Received Files\BTL 2\obj\Debug\BTL.FormDangNhap.resources
+C:\Users\LE TRUNG KIEN\Documents\Zalo Received Files\BTL 2\obj\Debug\BTL.FormKhoiPhucTK.resources
+C:\Users\LE TRUNG KIEN\Documents\Zalo Received Files\BTL 2\obj\Debug\BTL.Properties.Resources.resources
+C:\Users\LE TRUNG KIEN\Documents\Zalo Received Files\BTL 2\obj\Debug\BTL.csproj.GenerateResource.cache
+C:\Users\LE TRUNG KIEN\Documents\Zalo Received Files\BTL 2\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+C:\Users\LE TRUNG KIEN\Documents\Zalo Received Files\BTL 2\obj\Debug\BTL.exe
+C:\Users\LE TRUNG KIEN\Documents\Zalo Received Files\BTL 2\obj\Debug\BTL.pdb
+D:\Sao_Luu\BTL 2\bin\Debug\BTL.exe.config
+D:\Sao_Luu\BTL 2\bin\Debug\BTL.exe
+D:\Sao_Luu\BTL 2\bin\Debug\BTL.pdb
+D:\Sao_Luu\BTL 2\obj\Debug\BTL.csproj.AssemblyReference.cache
+D:\Sao_Luu\BTL 2\obj\Debug\BTL.Form1.resources
+D:\Sao_Luu\BTL 2\obj\Debug\BTL.FormDangKy.resources
+D:\Sao_Luu\BTL 2\obj\Debug\BTL.FormDangNhap.resources
+D:\Sao_Luu\BTL 2\obj\Debug\BTL.FormKhoiPhucTK.resources
+D:\Sao_Luu\BTL 2\obj\Debug\BTL.Properties.Resources.resources
+D:\Sao_Luu\BTL 2\obj\Debug\BTL.csproj.GenerateResource.cache
+D:\Sao_Luu\BTL 2\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+D:\Sao_Luu\BTL 2\obj\Debug\BTL.exe
+D:\Sao_Luu\BTL 2\obj\Debug\BTL.pdb
+C:\Users\LAPTOP-PC\projects\AI\BTL 2\bin\Debug\BTL.exe.config
+C:\Users\LAPTOP-PC\projects\AI\BTL 2\bin\Debug\BTL.exe
+C:\Users\LAPTOP-PC\projects\AI\BTL 2\bin\Debug\BTL.pdb
+C:\Users\LAPTOP-PC\projects\AI\BTL 2\obj\Debug\BTL.csproj.AssemblyReference.cache
+C:\Users\LAPTOP-PC\projects\AI\BTL 2\obj\Debug\BTL.Form1.resources
+C:\Users\LAPTOP-PC\projects\AI\BTL 2\obj\Debug\BTL.FormDangKy.resources
+C:\Users\LAPTOP-PC\projects\AI\BTL 2\obj\Debug\BTL.FormDangNhap.resources
+C:\Users\LAPTOP-PC\projects\AI\BTL 2\obj\Debug\BTL.FormKhoiPhucTK.resources
+C:\Users\LAPTOP-PC\projects\AI\BTL 2\obj\Debug\BTL.Properties.Resources.resources
+C:\Users\LAPTOP-PC\projects\AI\BTL 2\obj\Debug\BTL.csproj.GenerateResource.cache
+C:\Users\LAPTOP-PC\projects\AI\BTL 2\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP-PC\projects\AI\BTL 2\obj\Debug\BTL.exe
+C:\Users\LAPTOP-PC\projects\AI\BTL 2\obj\Debug\BTL.pdb
+C:\Users\LAPTOP-PC\projects\AI\BTL_CoCaro\bin\Debug\BTL.exe.config
+C:\Users\LAPTOP-PC\projects\AI\BTL_CoCaro\bin\Debug\BTL.exe
+C:\Users\LAPTOP-PC\projects\AI\BTL_CoCaro\bin\Debug\BTL.pdb
+C:\Users\LAPTOP-PC\projects\AI\BTL_CoCaro\obj\Debug\BTL.csproj.AssemblyReference.cache
+C:\Users\LAPTOP-PC\projects\AI\BTL_CoCaro\obj\Debug\BTL.Form1.resources
+C:\Users\LAPTOP-PC\projects\AI\BTL_CoCaro\obj\Debug\BTL.FormDangKy.resources
+C:\Users\LAPTOP-PC\projects\AI\BTL_CoCaro\obj\Debug\BTL.FormDangNhap.resources
+C:\Users\LAPTOP-PC\projects\AI\BTL_CoCaro\obj\Debug\BTL.FormKhoiPhucTK.resources
+C:\Users\LAPTOP-PC\projects\AI\BTL_CoCaro\obj\Debug\BTL.Properties.Resources.resources
+C:\Users\LAPTOP-PC\projects\AI\BTL_CoCaro\obj\Debug\BTL.csproj.GenerateResource.cache
+C:\Users\LAPTOP-PC\projects\AI\BTL_CoCaro\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP-PC\projects\AI\BTL_CoCaro\obj\Debug\BTL.exe
+C:\Users\LAPTOP-PC\projects\AI\BTL_CoCaro\obj\Debug\BTL.pdb

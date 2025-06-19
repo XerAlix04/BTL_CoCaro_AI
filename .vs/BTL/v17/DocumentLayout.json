@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LAPTOP-PC\\projects\\AI\\BTL_CoCaro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LAPTOP-PC\\projects\\PTTKHDT\\06012025.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LAPTOP-PC\\projects\\New folder\\bai1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|c:\\users\\laptop-pc\\projects\\ai\\btl_cocaro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|C:\\Users\\LAPTOP-PC\\projects\\AI\\BTL_CoCaro\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|solutionrelative:banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|C:\\Users\\LAPTOP-PC\\projects\\AI\\BTL_CoCaro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|C:\\Users\\LAPTOP-PC\\projects\\AI\\BTL_CoCaro\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|C:\\Users\\LAPTOP-PC\\projects\\AI\\BTL_CoCaro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|C:\\Users\\LAPTOP-PC\\projects\\AI\\BTL_CoCaro\\carochess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|solutionrelative:carochess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|C:\\Users\\LAPTOP-PC\\projects\\AI\\BTL_CoCaro\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|solutionrelative:formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|C:\\Users\\LAPTOP-PC\\projects\\AI\\BTL_CoCaro\\oco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|solutionrelative:oco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|C:\\Users\\LAPTOP-PC\\projects\\AI\\BTL_CoCaro\\formkhoiphuctk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|solutionrelative:formkhoiphuctk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|C:\\Users\\LAPTOP-PC\\projects\\AI\\BTL_CoCaro\\formkhoiphuctk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|solutionrelative:formkhoiphuctk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|C:\\Users\\LAPTOP-PC\\projects\\AI\\BTL_CoCaro\\formdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|solutionrelative:formdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|C:\\Users\\LAPTOP-PC\\projects\\AI\\BTL_CoCaro\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|solutionrelative:formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|C:\\Users\\LAPTOP-PC\\projects\\AI\\BTL_CoCaro\\formdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|solutionrelative:formdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "06012025.cpp",
+              "DocumentMoniker": "C:\\Users\\LAPTOP-PC\\projects\\PTTKHDT\\06012025.cpp",
+              "RelativeDocumentMoniker": "..\\..\\PTTKHDT\\06012025.cpp",
+              "ToolTip": "C:\\Users\\LAPTOP-PC\\projects\\PTTKHDT\\06012025.cpp",
+              "RelativeToolTip": "..\\..\\PTTKHDT\\06012025.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-19T07:49:29.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bai1.cpp",
+              "DocumentMoniker": "C:\\Users\\LAPTOP-PC\\projects\\New folder\\bai1.cpp",
+              "RelativeDocumentMoniker": "..\\..\\New folder\\bai1.cpp",
+              "ToolTip": "C:\\Users\\LAPTOP-PC\\projects\\New folder\\bai1.cpp",
+              "RelativeToolTip": "..\\..\\New folder\\bai1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-19T07:48:29.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BanCo.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP-PC\\projects\\AI\\BTL_CoCaro\\BanCo.cs",
+              "RelativeDocumentMoniker": "BanCo.cs",
+              "ToolTip": "C:\\Users\\LAPTOP-PC\\projects\\AI\\BTL_CoCaro\\BanCo.cs",
+              "RelativeToolTip": "BanCo.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwDIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:56:07.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CaroChess.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP-PC\\projects\\AI\\BTL_CoCaro\\CaroChess.cs",
+              "RelativeDocumentMoniker": "CaroChess.cs",
+              "ToolTip": "C:\\Users\\LAPTOP-PC\\projects\\AI\\BTL_CoCaro\\CaroChess.cs",
+              "RelativeToolTip": "CaroChess.cs",
+              "ViewState": "AgIAAAYBAAAAAAAAAAAAAAQBAACTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T15:08:39.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP-PC\\projects\\AI\\BTL_CoCaro\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\LAPTOP-PC\\projects\\AI\\BTL_CoCaro\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAYwJ4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T14:43:29.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP-PC\\projects\\AI\\BTL_CoCaro\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\LAPTOP-PC\\projects\\AI\\BTL_CoCaro\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T15:12:35.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormDangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LAPTOP-PC\\projects\\AI\\BTL_CoCaro\\FormDangNhap.cs",
+              "RelativeDocumentMoniker": "FormDangNhap.cs",
+              "ToolTip": "C:\\Users\\LAPTOP-PC\\projects\\AI\\BTL 2\\FormDangNhap.cs [Design]",
+              "RelativeToolTip": "..\\BTL 2\\FormDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T02:21:31.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormDangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP-PC\\projects\\AI\\BTL_CoCaro\\FormDangNhap.cs",
+              "RelativeDocumentMoniker": "FormDangNhap.cs",
+              "ToolTip": "C:\\Users\\LAPTOP-PC\\projects\\AI\\BTL_CoCaro\\FormDangNhap.cs",
+              "RelativeToolTip": "FormDangNhap.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAewBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T14:35:50.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP-PC\\projects\\AI\\BTL_CoCaro\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LAPTOP-PC\\projects\\AI\\BTL_CoCaro\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:59:42.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LAPTOP-PC\\projects\\AI\\BTL_CoCaro\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\LAPTOP-PC\\projects\\AI\\BTL_CoCaro\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:08:52.29Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OCo.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP-PC\\projects\\AI\\BTL_CoCaro\\OCo.cs",
+              "RelativeDocumentMoniker": "OCo.cs",
+              "ToolTip": "C:\\Users\\LAPTOP-PC\\projects\\AI\\BTL_CoCaro\\OCo.cs",
+              "RelativeToolTip": "OCo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:27:45.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormKhoiPhucTK.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP-PC\\projects\\AI\\BTL_CoCaro\\FormKhoiPhucTK.cs",
+              "RelativeDocumentMoniker": "FormKhoiPhucTK.cs",
+              "ToolTip": "C:\\Users\\LAPTOP-PC\\projects\\AI\\BTL_CoCaro\\FormKhoiPhucTK.cs",
+              "RelativeToolTip": "FormKhoiPhucTK.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T14:34:06.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormKhoiPhucTK.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LAPTOP-PC\\projects\\AI\\BTL_CoCaro\\FormKhoiPhucTK.cs",
+              "RelativeDocumentMoniker": "FormKhoiPhucTK.cs",
+              "ToolTip": "C:\\Users\\LAPTOP-PC\\projects\\AI\\BTL 2\\FormKhoiPhucTK.cs [Design]",
+              "RelativeToolTip": "..\\BTL 2\\FormKhoiPhucTK.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T02:32:41.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormDangKy.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LAPTOP-PC\\projects\\AI\\BTL_CoCaro\\FormDangKy.cs",
+              "RelativeDocumentMoniker": "FormDangKy.cs",
+              "ToolTip": "C:\\Users\\LAPTOP-PC\\projects\\AI\\BTL 2\\FormDangKy.cs [Design]",
+              "RelativeToolTip": "..\\BTL 2\\FormDangKy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T02:30:13.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormDangKy.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP-PC\\projects\\AI\\BTL_CoCaro\\FormDangKy.cs",
+              "RelativeDocumentMoniker": "FormDangKy.cs",
+              "ToolTip": "C:\\Users\\LAPTOP-PC\\projects\\AI\\BTL_CoCaro\\FormDangKy.cs",
+              "RelativeToolTip": "FormDangKy.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAYwE0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T14:40:40.27Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
